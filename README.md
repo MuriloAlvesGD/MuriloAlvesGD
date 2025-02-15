@@ -21,7 +21,7 @@
 [![My Skills](https://skillicons.dev/icons?i=java,spring,postgres,mongodb,js,nodejs,react,express,html,css&theme=dark)](https://skillicons.dev)
 
 ### Tools:
-[![My Skills](https://skillicons.dev/icons?i=idea,webstorm,vite,windows,linux,debian,discord&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=idea,webstorm,vite,windows,linux,debian,ubuntu,discord&theme=dark)](https://skillicons.dev)
 </div>
 <!--
 <p align="center">
